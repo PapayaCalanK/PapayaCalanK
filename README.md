@@ -9,6 +9,10 @@
 
 ---
 
+![Snake animation](./github-contribution-grid-snake.svg)
+
+---
+
 ###  Objectif 2025 : devenir Administrateur Systèmes DevOps
 
 -  **BTS SIO SLAM – 2 ans d’alternance**  
