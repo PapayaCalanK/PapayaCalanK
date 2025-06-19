@@ -14,12 +14,13 @@
 -  **BTS SIO SLAM – 2 ans d’alternance**  
   &nbsp;&nbsp;&nbsp;&raquo; Dév. d’applis (WinDev / React / PHP)  
   &nbsp;&nbsp;&nbsp;&raquo; Formation & support GPAO (≃ 40 opérateurs)  
-- **Bachelor Administrateur Systèmes DevOps**
-  &nbsp;&nbsp;&nbsp;&raquo; **Automatisation de l’infrastructure (IaC) :** déployer et mettre à jour rapidement des environnements serveurs grâce à Terraform/Ansible pour réduire les temps d’arrêt et faciliter la maintenance de parcs matériels hétérogènes.
-  &nbsp;&nbsp;&nbsp;&raquo;**Chaînes CI/CD sécurisées :** livrer des correctifs et nouvelles versions sans interruption de service, tout en appliquant des tests automatisés qui garantissent la stabilité des applications internes.
- &nbsp;&nbsp;&nbsp;&raquo;**Containerisation & orchestration :** standardiser les déploiements avec Docker/Kubernetes afin d’optimiser l’usage des ressources matériels et prolonger la durée de vie des équipements.
- &nbsp;&nbsp;&nbsp;&raquo;**Observabilité & monitoring temps réel :** mettre en place des tableaux de bord (Prometheus, Grafana) pour anticiper les pannes, suivre la performance énergétique et fiabiliser les SLA.
-  &nbsp;&nbsp;&nbsp;&raquo;**Gestion du cycle de vie des systèmes :** documenter, automatiser les sauvegardes et les procédures de reprise, afin de faciliter la maintenance préventive et de réduire les interventions matérielles non planifiées.
+- **Bachelor Administrateur Systèmes DevOps**  
+  &nbsp;&nbsp;&nbsp;&raquo; **Automatisation de l’infrastructure (IaC) :** déployer et mettre à jour rapidement des environnements serveurs grâce à Terraform/Ansible pour réduire les temps d’arrêt et faciliter la maintenance de parcs matériels hétérogènes.<br>
+  &nbsp;&nbsp;&nbsp;&raquo; **Chaînes CI/CD sécurisées :** livrer des correctifs et nouvelles versions sans interruption de service, tout en appliquant des tests automatisés qui garantissent la stabilité des applications internes.<br>
+  &nbsp;&nbsp;&nbsp;&raquo; **Containerisation & orchestration :** standardiser les déploiements avec Docker/Kubernetes afin d’optimiser l’usage des ressources matériels et prolonger la durée de vie des équipements.<br>
+  &nbsp;&nbsp;&nbsp;&raquo; **Observabilité & monitoring temps réel :** mettre en place des tableaux de bord (Prometheus, Grafana) pour anticiper les pannes, suivre la performance énergétique et fiabiliser les SLA.<br>
+  &nbsp;&nbsp;&nbsp;&raquo; **Gestion du cycle de vie des systèmes :** documenter, automatiser les sauvegardes et les procédures de reprise, afin de faciliter la maintenance préventive et de réduire les interventions matérielles non planifiées.
+
 
 ---
 
