@@ -11,7 +11,7 @@
 
 ###  Objectif 2025 : devenir Administrateur Systèmes DevOps
 
-- ✔ BTS SIO SLAM – 2 ans d’alternance  
+-  BTS SIO SLAM – 2 ans d’alternance  
   &nbsp;&nbsp;&nbsp;&raquo; Dév. d’applis (WinDev / React / PHP)  
   &nbsp;&nbsp;&nbsp;&raquo; Formation & support GPAO (≃ 40 opérateurs)  
 -  **Bachelor Administrateur Systèmes DevOps**  
@@ -23,7 +23,7 @@
 
 ---
 
-### 🔧 Compétences techniques
+###  Compétences techniques
 
 | Développement | DevOps & Système | Données |
 |--------------|----------------|---------|
@@ -43,14 +43,6 @@
 | **DevOps Lab** <sup>NEW</sup> | Docker • Terraform • GitHub Actions | Démonstrations CI/CD & IaC |
 
 > *Le dépôt **DevOps Lab** servira de vitrine à mes futurs travaux Bachelor (pipelines, scripts Terraform, playbooks Ansible…).*
-
----
-
-###  Stats rapides
-
-<p align=\"center\">
-  <img src=\"https://github-readme-stats.vercel.app/api?username=PapayaCalanK&show_icons=true&theme=default\" alt=\"Stats GitHub\" />
-</p>
 
 ---
 
