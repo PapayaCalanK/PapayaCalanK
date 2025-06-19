@@ -54,7 +54,7 @@
 ###  Me contacter
 
 -  **Adresse email :** tomtoison75@gmail.com  
--  **LinkdIn :** "https://www.linkedin.com/in/tom-toison-624573306/\">LinkedIn</a>
+-  **LinkdIn :** https://www.linkedin.com/in/tom-toison-624573306/\">LinkedIn</a>
 
 
 
