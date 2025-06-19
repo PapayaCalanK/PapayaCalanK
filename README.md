@@ -15,7 +15,7 @@
   &nbsp;&nbsp;&nbsp;&raquo; Dév. d’applis (WinDev / React / PHP)  
   &nbsp;&nbsp;&nbsp;&raquo; Formation & support GPAO (≃ 40 opérateurs)  
 - **Bachelor Administrateur Systèmes DevOps**  
-  &nbsp;&nbsp;&nbsp;&raquo; <u>Automatisation de l’infrastructure (IaC) :</u> : déployer et mettre à jour rapidement des environnements serveurs grâce à Terraform/Ansible pour réduire les temps d’arrêt et faciliter la maintenance de parcs matériels hétérogènes.<br>
+  &nbsp;&nbsp;&nbsp;&raquo; <ins>Automatisation de l’infrastructure (IaC) :</ins> déployer et mettre à jour rapidement des environnements serveurs grâce à Terraform/Ansible pour réduire les temps d’arrêt et faciliter la maintenance de parcs matériels hétérogènes.<br>
   
   &nbsp;&nbsp;&nbsp;&raquo; **Chaînes CI/CD sécurisées :** livrer des correctifs et nouvelles versions sans interruption de service, tout en appliquant des tests automatisés qui garantissent la stabilité des applications internes.<br>
   &nbsp;&nbsp;&nbsp;&raquo; **Containerisation & orchestration :** standardiser les déploiements avec Docker/Kubernetes afin d’optimiser l’usage des ressources matériels et prolonger la durée de vie des équipements.<br>
