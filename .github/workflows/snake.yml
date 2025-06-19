@@ -1,0 +1,30 @@
+name: 🐍 Contribution Snake
+on:
+  schedule:
+    - cron: '0 4 * * *'      # tous les jours à 04:00 UTC
+  workflow_dispatch:        # permet aussi de lancer à la demande
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Générer le Snake
+        uses: styfle/github-contribution-grid-snake@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'github-actions[bot]'
+          author_email: '41898282+github-actions[bot]@users.noreply.github.com'
+          message: '🐍 Regénérer contribution snake'
+          add: 'github-contribution-grid-snake.svg'
+
+
+
+
+
+          Add GitHub Action for contribution snake
