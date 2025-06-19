@@ -1,4 +1,5 @@
 name: 🐍 Contribution Snake
+
 on:
   schedule:
     - cron: '0 4 * * *'
@@ -8,9 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: Générer le Snake
+      - name: Generate the Snake
         uses: styfle/github-contribution-grid-snake@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
