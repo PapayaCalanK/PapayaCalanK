@@ -7,7 +7,8 @@
   Passionné par la <em>maintenance durable</em> et l’optimisation des data centers.
 </p>
 
-![Contribution Snake](./github-contribution-grid-snake.svg)
+[![Mes contributions GitHub](https://ghchart.rshah.org/PapayaCalanK)](https://github.com/PapayaCalanK)
+
 
 
 ---
