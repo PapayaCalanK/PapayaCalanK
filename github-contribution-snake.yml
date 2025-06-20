@@ -1,0 +1,25 @@
+name: 🐍 GitHub Contribution Snake
+on:
+  schedule:
+    # tous les jours à minuit UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate contribution snake
+        uses: styfle/github-contribution-grid-snake@v1
+        with:
+          # le token par défaut fourni par GitHub
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit snake image
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🐍 Regenerate contribution snake"
+          file_pattern: github-contribution-grid-snake.svg
