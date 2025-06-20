@@ -9,12 +9,6 @@
 
 ---
 
-## Jouer à Snake 
-
-[▶️ Lancez le jeu Snake](https://PapayaCalanK.github.io/snake.html){:target="_blank"}
-
----
-
 ###  Objectif 2025 : devenir Administrateur Systèmes DevOps
 
 -  **BTS SIO SLAM – 2 ans d’alternance**  
