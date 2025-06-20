@@ -11,7 +11,7 @@
 
 ## Jouer à Snake 
 
-[▶️ Lancez le jeu Snake](./snake.html){:target="_blank"}
+[▶️ Lancez le jeu Snake](https://PapayaCalanK.github.io/snake.html){:target="_blank"}
 
 ---
 
