@@ -7,6 +7,9 @@
   Passionné par la <em>maintenance durable</em> et l’optimisation des data centers.
 </p>
 
+![Contribution Snake](./github-contribution-grid-snake.svg)
+
+
 ---
 
 ###  Objectif 2025 : devenir Administrateur Systèmes DevOps
