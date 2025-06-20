@@ -1,0 +1,28 @@
+name: 🐍 GitHub Contributions Snake
+
+on:
+  schedule:
+    # tous les jours à minuit UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # pour pouvoir le relancer manuellement
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. On récupère le repo
+      - uses: actions/checkout@v3
+
+      # 2. On génère le snake.svg depuis ta grille de contributions
+      - name: Générer le Snake
+        uses: platane/snk@master
+        with:
+          github_user_name: PapayaCalanK
+          svg_out_path: github-contribution-grid-snake.svg
+
+      # 3. On commite et pousse le résultat
+      - name: Commit & Push Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Add snake animation"
+          add: github-contribution-grid-snake.svg
