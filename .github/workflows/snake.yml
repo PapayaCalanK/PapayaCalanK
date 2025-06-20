@@ -1,8 +1,9 @@
-name: '🐍 Contribution Snake'
+name: 🐍 Contribution Snake
+
 on:
   schedule:
-    - cron: '0 0 * * *'        # toutes les nuits à minuit UTC
-  workflow_dispatch:          # permet de relancer manuellement
+    - cron: '0 4 * * *'        # tous les jours à 04:00 UTC
+  workflow_dispatch:          # pour pouvoir lancer manuellement
 
 jobs:
   build:
