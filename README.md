@@ -12,7 +12,7 @@
 ###  Objectif 2025 : devenir Administrateur Systèmes DevOps
 
 -  **BTS SIO SLAM – 2 ans d’alternance**  
-  &nbsp;&nbsp;&nbsp;&raquo; Dév. d’applis (WinDev / React / PHP)  
+  &nbsp;&nbsp;&nbsp;&raquo; Dév. d’applis (WinDev / React / PHP / C# / JavaScript)  
   &nbsp;&nbsp;&nbsp;&raquo; Formation & support GPAO (≃ 100 opérateurs)  
 - **Bachelor Administrateur Systèmes DevOps**  
   &nbsp;&nbsp;&nbsp;&raquo; <ins>Automatisation de l’infrastructure (IaC) :</ins> déployer et mettre à jour rapidement des environnements serveurs grâce à Terraform/Ansible pour réduire les temps d’arrêt et faciliter la maintenance de parcs matériels hétérogènes.<br>
