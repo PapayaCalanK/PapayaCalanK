@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Futur Bachelor Administrateur Systèmes DevOps – alternance sept. 2025</strong><br/>
-  Passionné par la <em>maintenance durable</em> et l’optimisation des data centers.x
+  Passionné par la <em>maintenance durable</em> et l’optimisation des data centers.
 </p>
 
 ---
