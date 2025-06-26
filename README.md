@@ -49,7 +49,7 @@
 
 > *Le dépôt **DevOps Lab** servira de vitrine à mes futurs travaux Bachelor (pipelines, scripts Terraform, playbooks Ansible…).*
 
----
+---e
 
 ###  Me contacter
 
